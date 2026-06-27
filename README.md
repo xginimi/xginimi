@@ -1,7 +1,7 @@
 <h1> Hey! Nice to see you.</h1>
 
 
-<p>I'm Nithin Rao, Graduate Student from <img src="https://image.flaticon.com/icons/png/512/197/197484.png" width="13"/> <b>Chicago, Illinois</b></p>
+<p>I'm Nithin Rao, Graduate Student from <b>Chicago, Illinois</b></p>
 <h2>Things I code</h2>
 
 <h3>Mobile Technologies</h3>  
